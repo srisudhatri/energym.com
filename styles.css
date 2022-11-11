@@ -34,6 +34,25 @@ body{
 }
 /* about */
 
+/* contact */
+.get{
+    color:#f36523;
+    border-bottom: 3px solid #ef4e44;
+}
+
+
+textarea{
+    resize: none;
+}
+
+.form-control:focus {
+    color: #212529; 
+   
+    border-color:#000; 
+    outline:0;
+    box-shadow:none;
+}
+/* contact */
 
 /* footer */
 .footer{
